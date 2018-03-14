@@ -1,0 +1,25 @@
+h2.intro {
+  font-family: monospace;
+}
+
+p.intro {
+  font-family: arial;
+  color: green;
+}
+
+p.intro2 {
+  font-family:serif;
+  color: green;
+}
+
+img.intro {
+  border: 2px solid;
+  padding: 10px;
+  box-shadow: 5px 12px;
+}
+
+p.important {
+  font-style: italic;
+  color: orange;
+  font-weight: bold;
+}
