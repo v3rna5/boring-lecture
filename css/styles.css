@@ -1,4 +1,4 @@
-h2.intro {
+h2.firstline {
   font-family: monospace;
 }
 
@@ -12,13 +12,13 @@ p.intro2 {
   color: green;
 }
 
-img.intro {
+img.shadow {
   border: 2px solid;
   padding: 10px;
   box-shadow: 5px 12px;
 }
 
-p.important {
+.intro {
   font-style: italic;
   color: orange;
   font-weight: bold;
